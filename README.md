@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Barbosa 👋🏼
 
 - 🧑🏻‍💻 Estudante de Front-end
-- 🌱 Estudando: Javascript
+- 🌱 Estudando: HTML5, CSS3 e Javascript
 - 🎓 Formado em Engenharia de Controle e Automação
 - 😄 Pronomes: ele/dele
 <br>
