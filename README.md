@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lehbarbosa87/) 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhbarbosa&show_icons=true&theme=tokyonight"> <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhbarbosa&layout=compact&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhbarbosa&show_icons=true&theme=tokyonight">
 
  
 
