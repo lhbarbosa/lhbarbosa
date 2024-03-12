@@ -2,8 +2,8 @@
 <br>
 <div> <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"> </div><br><br>
 
-- 🧑🏻‍💻 Estudante de programação Python.
-- 🌱 Estudando: Python
+- 🧑🏻‍💻 Estudante de Desenvolvimento Web.
+- 🌱 Estudando: HTML5, CSS3 e Javascipt
 - 🎓 Formado em Engenharia de Controle e Automação
 - 😄 Pronomes: ele/dele
 <br>
@@ -19,9 +19,14 @@
  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="lehbarbosa-HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="lehbarbosa-CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lehbarbosa-Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="lehbarbosa-HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
+  <img align="center" alt="lehbarbosa-CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="lehbabosa-JS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />          
+          
+          
+
+ 
+  <!--<img align="center" alt="lehbarbosa-Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />-->
 </div>
 
 <br><br>
