@@ -2,10 +2,10 @@
 <br>
 <div> <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"> </div><br><br>
 
-- 🧑🏻‍💻 Estudante de Desenvolvimento Web.
-- 🌱 Estudando: HTML5, CSS3 e Javascipt
-- 🎓 Formado em Engenharia de Controle e Automação
-- 😄 Pronomes: ele/dele
+- 🧑🏻‍💻 Estudante Hobista de programação.
+- 🌱 Estudando: Javascipt.
+- 🎓 Formado em Engenharia de Controle e Automação.
+- 😄 Pronomes: ele/dele.
 <br>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lehbarbosa87@gmail.com) 
