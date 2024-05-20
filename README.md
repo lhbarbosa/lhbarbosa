@@ -3,7 +3,6 @@
 <!--<div> <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"> </div><br><br>-->
 
 - 🧑🏻‍💻 Estudante de Programação Backend com Python.
-- 🌱 Estudando: <img img align="center" alt="lehbarbosa-Python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />           
 - 🎓 Formado em Engenharia de Controle e Automação.
 - 😄 Pronomes: ele/dele.
 <br>
